@@ -65,5 +65,5 @@ src/data/enemies.js
 Smash all enemies before they cross the bottom danger line. The longer you survive, the faster the enemies appear and the higher your score becomes.
 
 ## Author
-
+Author: Asad Abbas @asadabbas717
 Developed as a React Native Expo mobile game project.
